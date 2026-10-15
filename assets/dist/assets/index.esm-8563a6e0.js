@@ -1,4 +1,4 @@
-import{f as r}from"./index.esm-b37e3bfc.js";import"./index-587610a9.js";var e="firebase",a="8.3.3";/**
+import{f as e}from"./index.esm-7013d418.js";var r="firebase",a="8.3.3";/**
  * @license
  * Copyright 2018 Google LLC
  *
@@ -13,5 +13,5 @@ import{f as r}from"./index.esm-b37e3bfc.js";import"./index-587610a9.js";var e="f
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- */r.registerVersion(e,a,"app");export{r as default};
-//# sourceMappingURL=index.esm-59043c11.js.map
+ */e.registerVersion(r,a,"app");export{e as default};
+//# sourceMappingURL=index.esm-8563a6e0.js.map
